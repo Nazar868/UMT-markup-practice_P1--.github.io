@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <!-- Burger menu icon -->
+  <symbol id="icon-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+    <line x1="3" y1="6" x2="21" y2="6"/>
+    <line x1="3" y1="12" x2="21" y2="12"/>
+    <line x1="3" y1="18" x2="21" y2="18"/>
+  </symbol>
+  <!-- Close icon -->
+  <symbol id="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+    <line x1="18" y1="6" x2="6" y2="18"/>
+    <line x1="6" y1="6" x2="18" y2="18"/>
+  </symbol>
+  <!-- Arrow left -->
+  <symbol id="icon-arrow-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="19" y1="12" x2="5" y2="12"/>
+    <polyline points="12 19 5 12 12 5"/>
+  </symbol>
+  <!-- Arrow right -->
+  <symbol id="icon-arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="5" y1="12" x2="19" y2="12"/>
+    <polyline points="12 5 19 12 12 19"/>
+  </symbol>
+  <!-- Phone icon -->
+  <symbol id="icon-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 8.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/>
+  </symbol>
+  <!-- Location icon -->
+  <symbol id="icon-location" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0118 0z"/>
+    <circle cx="12" cy="10" r="3"/>
+  </symbol>
+  <!-- Facebook -->
+  <symbol id="icon-facebook" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/>
+  </symbol>
+  <!-- Instagram -->
+  <symbol id="icon-instagram" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+    <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/>
+    <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
+  </symbol>
+  <!-- X / Twitter -->
+  <symbol id="icon-x" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+  </symbol>
+  <!-- Flower / Logo icon -->
+  <symbol id="icon-flower" viewBox="0 0 40 40" fill="none">
+    <circle cx="20" cy="20" r="4" fill="#E8A598"/>
+    <ellipse cx="20" cy="10" rx="4" ry="6" fill="#F4C5BB" opacity="0.8"/>
+    <ellipse cx="20" cy="30" rx="4" ry="6" fill="#F4C5BB" opacity="0.8"/>
+    <ellipse cx="10" cy="20" rx="6" ry="4" fill="#F4C5BB" opacity="0.8"/>
+    <ellipse cx="30" cy="20" rx="6" ry="4" fill="#F4C5BB" opacity="0.8"/>
+    <path d="M14 8 Q16 14 20 16 Q16 18 14 24" stroke="#4A7C59" stroke-width="1.5" fill="none"/>
+    <ellipse cx="12" cy="6" rx="3" ry="4" fill="#6AAF7A" opacity="0.7" transform="rotate(-20 12 6)"/>
+  </symbol>
+</svg>
